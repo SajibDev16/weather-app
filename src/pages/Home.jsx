@@ -8,10 +8,10 @@ const Home = () => {
     <div>
       <div className="text-center">
         <h1 className="text-6xl text-blue-300 font-extrabold">
-          NextLevel <span className="text-blue-400">Weather</span>
+          Akasher <span className="text-blue-400">Khobor</span>
         </h1>
         <p className="py-4 text-md text-gray-400">
-          Check your weather today in next level
+          Check your weather today
         </p>
       </div>
 

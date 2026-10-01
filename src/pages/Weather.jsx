@@ -46,7 +46,7 @@ const Weather = () => {
             </div>
             <div>
               <h1 className="text-xl text-blue-300 font-bold">
-                NextLevel <span className="text-blue-400">Weather</span>
+                Akasher Khobor <span className="text-blue-400">Weather</span>
               </h1>
             </div>
             <div>
